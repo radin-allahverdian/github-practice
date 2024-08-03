@@ -24,3 +24,11 @@ ul{
     align-items: center;
     background-color: blue;
 }
+
+.nav-bar{
+    display: flex;
+    flex-direction: column;
+    background-color: orange;
+    color: aqua;
+    align-items: center;
+}
