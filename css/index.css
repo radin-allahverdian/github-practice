@@ -32,3 +32,7 @@ ul{
     color: aqua;
     align-items: center;
 }
+
+body{
+    margin: 0;
+}
