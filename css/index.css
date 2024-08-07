@@ -15,7 +15,7 @@ p{
 
 a{
     margin-left: 700px;
-    color: pink;
+    color: azure;
 }
 
 ul{
@@ -31,4 +31,8 @@ ul{
     background-color: orange;
     color: aqua;
     align-items: center;
+}
+
+body{
+    margin: 0;
 }
